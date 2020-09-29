@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a local hosted messaging app (for the moment). This app allows the user to create a unique ID or create a randomly generated ID to chat to others via https://localhost:3000. This project also contains a NodeJs server which uses port 5000 to listen to events. This app was created using ReactJs and NodeJs. This is a work in progress and will continuously be updated as I learn more.
+
 
 ## Available Scripts
 
